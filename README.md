@@ -12,7 +12,7 @@ NFC Card Writer Reader RC-S620Sで交通系ICカード(Suica, icoca, toica等)�
 
 こんな感じ。
 
-![システム構成](/Users/kotatsu/Documents/NFC-History/NFC-History/img/システム構成.png)
+![システム構成](./img/システム構成.png)
 
 ## 開発環境
 
