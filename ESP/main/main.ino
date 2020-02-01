@@ -8,7 +8,7 @@
 
 HardwareSerial arduino(2);
 
-const char URL[] = "http://nfc-history.herokuapp.com/";
+const char URL[] = "ServerURL";
 uint64_t chipID;
 int status = 0;
 int idm[8];
